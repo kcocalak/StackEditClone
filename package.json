@@ -1,0 +1,7 @@
+{
+    "name": "s01e11",
+    "version": "0.5.0",
+    "dependencies": {
+        "showdown": "^1.9.1"
+    }
+}
